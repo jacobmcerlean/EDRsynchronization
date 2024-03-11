@@ -10,8 +10,10 @@ Repo includes:
   synchEDR.m: phase aligns a collection of EDR estimates
   ensemble.m: produces an ensemble signal from (phase-aligned) EDR estimates
   EDR_Regression.m: returns gamma-score, otd, and earr metrics for EDR against reference signal
-  CHMH database: ecg, cflow, tho, and abd signals from CGMH dataset can be obtained by request. 
-            Please email jacob.mcerlean@duke.edu.
+  CHMH database: ecg, cflow, tho, and abd signals from CGMH dataset. The dataset is not loaded to 
+                GitHub due to file size constraints, but can be obtained by download at the following link:
+                https://duke.box.com/s/94paegobuv4bxzkgb467avdggciuabw4
+  Please email jacob.mcerlean@duke.edu with any questions.
   SHHS database: Request data access at https://sleepdata.org/datasets/shhs
 
 
